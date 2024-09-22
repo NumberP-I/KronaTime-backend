@@ -1,6 +1,6 @@
-#KronaTime Backend
+# KronaTime Backend
 
-##Install
+## Install
 
 This project uses one of the popular frameworks for writing web applications in C such as Kore. For the general assembly of the project, you will need to install [Kore](https://kore.io/source) itself and the [SQLite3](https://www.sqlite.org/) database.
 
