@@ -1,0 +1,6 @@
+*.o
+.flavor
+.objs
+KronaTime.so
+assets.h
+cert
